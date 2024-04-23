@@ -1,3 +1,4 @@
-Description - 
-Target -
-Stop Loss -
+Description - long, 1%
+Entry - 62200
+Stop Loss - 60400
+Target - 66400
